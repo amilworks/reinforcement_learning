@@ -17,3 +17,12 @@ A trash collecting robot decides whether it should enter a new room in search of
 In this project we will walk through a simple example--the _n_-__Armed Bandit Problem__. Imagine we are faced repeatedly with a choice among _n_ different options, or actions. After each choice, we receive a numerical reward chosen from a stationary probability distribution that depends on the action we selected. Our objective is to maximize the expected total reward over some time period, for example, over 1000 action selections, or time steps. This is the _n_-Armed Bandit Problem. 
 
 To help us solve this problem, we will enlist the services of `Python`. 
+
+
+## Inspiration and Documentation
+
+__Google DeepDream__
+* A  computer vision program created by Google which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images
+
+__Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto__
+* Oldie but a goodie. 1998 old. Majority of inspiration. The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning.
