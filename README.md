@@ -9,7 +9,7 @@ Reinforcement learning is defined not by characterizing learning methods, but by
 
 ## Example
 
-A trash collecting robot decides whether it should enter a new room in search of more trash to collect or start trying to find its way back to its battery recharging station. How does the robot make its decision? It makes its decision based on how quickly and easily it has been able to find the recharger in the past.
+A trash collecting robot decides whether it should enter a new room in search of more trash to collect or start trying to find its way back to its battery recharging station. How does the robot make its decision? It makes its decision based on how quickly and easily it has been able to find the recharging station in the past.
 
 
 ## Project Abstract
