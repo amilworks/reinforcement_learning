@@ -25,4 +25,7 @@ __Google DeepDream__
 * A  computer vision program created by Google which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like hallucinogenic appearance in the deliberately over-processed images
 
 __Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto__
-* Oldie but a goodie. 1998 old. Majority of inspiration. The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning.
+* Oldie but a goodie. 1998 old. Majority of inspiration and documentation. The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning.
+
+__Quantitative Journey, Outlace.com__
+* Excellent resource from a med student. More documentation and inspiration. He blogs about what he learns and about topics that stimulate his fascination with machine learning and artificial intelligence.
