@@ -10,3 +10,10 @@ Reinforcement learning is defined not by characterizing learning methods, but by
 ## Example
 
 A trash collecting robot decides whether it should enter a new room in search of more trash to collect or start trying to find its way back to its battery recharging station. How does the robot make its decision? It makes its decision based on how quickly and easily it has been able to find the recharger in the past.
+
+
+## Project Abstract
+
+In this project we will walk through a simple example--the _n_-__Armed Bandit Problem__. Imagine we are faced repeatedly with a choice among _n_ different options, or actions. After each choice, we receive a numerical reward chosen from a stationary probability distribution that depends on the action we selected. Our objective is to maximize the expected total reward over some time period, for example, over 1000 action selections, or time steps. This is the _n_-Armed Bandit Problem. 
+
+To help us solve this problem, we will enlist the services of `Python`. 
